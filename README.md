@@ -1,2 +1,2 @@
 # projects
-All project o n which I have practiced
+All project on which I have practiced
